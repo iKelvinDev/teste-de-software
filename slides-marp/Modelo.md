@@ -70,3 +70,51 @@ O Teste de Integração avalia a funcionalidade de vários módulos quando integ
 
 - Aborda problemas que foram ignorados nos testes de unidade, como interceptação de erros, interfaces de hardware, formatação de dados e interfaces de terceiros. O teste de integração também verifica o comportamento funcional e não funcional das interfaces integradas.
 
+---
+
+# Introdução ao PHPUnit
+
+PHPUnit é uma estrutura de testes unitários para a linguagem de programação PHP. Desenvolvido por Sebastian Bergmann, PHPUnit é a ferramenta padrão para escrever testes automatizados em PHP, facilitando a escrita de testes de unidade, testes de integração e testes funcionais.
+
+---
+
+# Características do PHPUnit
+
+- **Open source** e gratuito.
+- Integração com frameworks PHP como Laravel, Symfony, etc.
+- Suporte a testes unitários, testes funcionais e testes de integração.
+- Facilidade na criação de mocks e stubs.
+- Geração de relatórios detalhados.
+
+---
+
+# Como Usar o PHPUnit para Teste de Funcionalide e de Integração
+
+1. **Planeje seu teste**: 
+- Defina os casos de uso, as funcionalidades e as integrações que precisam ser testadas e identifique as entradas e saídas esperadas.
+2. **Instale o PHPUnit**: 
+Via Composer: `composer require --dev phpunit/phpunit`
+3. **Configure o arquivo `phpunit.xml`**:
+- Localize o arquivo na raiz do projeto e defina configurações básicas, como diretórios de testes e configurações de ambiente.
+
+---
+
+# Como Usar o PHPUnit para Teste de Funcionalide e de Integração
+
+4. **Configure o arquivo `phpunit.xml`**:
+- Localize o arquivo na raiz do projeto.
+- Defina configurações básicas, como diretórios de testes e configurações de ambiente.
+5. **Escrevendo os testes de funcionalide e de integração**:
+- Crie classes de teste para diferentes funcionalidades e integrações.
+
+---
+
+# Como Usar o PHPUnit para Teste de Funcionalide e de Integração
+
+6. **Rode os testes**:
+- No terminal, execute: `phpunit` ou `php artisan test`
+- PHPUnit buscará e executará todos os testes no diretório configurado.
+7. **Monitoramento**:
+- Verifique os resultados dos testes e asserções no terminal.
+- Corrija quaisquer falhas identificadas.
+
