@@ -127,3 +127,16 @@ Os testes de funcionalidade e de integração são essenciais para garantir a qu
 # Obrigado!
 
 Dúvidas?
+
+---
+
+# REFERÊNCIAS
+
+[O que é o Teste Funcional - ZapTest](https://www.zaptest.com/pt-br/o-que-e-o-teste-funcional-tipos-exemplos-lista-de-verificacao-e-implementacao)
+
+[Principais técnicas de testes funcionais - TreinaWeb](https://www.treinaweb.com.br/blog/principais-tecnicas-de-testes-funcionais)
+
+[Teste de Integração: tudo o que você precisa saber para começar - Tecnisys](https://www.tecnisys.com.br/teste-de-integracao-tudo-o-que-voce-precisa-saber-para-comecar/)
+
+[Testes de Integração: tipos, importância e vantagens - Casa do Desenvolvedor](https://blog.casadodesenvolvedor.com.br/testes-de-integracao-tipos-importancia-e-vantagens/)
+
