@@ -118,3 +118,14 @@ Via Composer: `composer require --dev phpunit/phpunit`
 - Verifique os resultados dos testes e asserções no terminal.
 - Corrija quaisquer falhas identificadas.
 
+---
+
+# Conclusão
+
+Os testes de funcionalidade e de integração são essenciais para garantir a qualidade e a confiabilidade de sistemas e aplicações. O PHPUnit é uma ferramenta poderosa e versátil que permite realizar esses testes de maneira eficaz, ajudando a identificar e corrigir problemas antes que eles afetem os usuários finais.
+
+---
+
+# Obrigado!
+
+Dúvidas?
