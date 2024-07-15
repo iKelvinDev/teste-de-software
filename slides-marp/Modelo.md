@@ -124,6 +124,58 @@ Os testes de funcionalidade e de integração são essenciais para garantir a qu
 
 ---
 
+![teste de banco de teste (banco de dados)](assets/test-images/teste-banco-de-teste-sqlite.jpg)
+
+---
+
+![teste-update-list-item-not-found](assets/test-images/teste-update-list-item-not-found.jpg)
+
+---
+
+![teste-destroy-item-not-found](assets/test-images/teste-destroy-item-not-found.jpg)
+
+---
+
+![test-show-item-not-found](assets/test-images/test-show-item-not-found.jpg)
+
+---
+
+![test-can-delete-item](assets/test-images/test-can-delete-item.jpg)
+
+---
+
+![test-can-update-item](assets/test-images/test-can-update-item.jpg)
+
+---
+
+![test-can-update-item](assets/test-images/test-can-store-item.jpg)
+
+---
+
+![test-can-show-item](assets/test-images/test-can-show-item.jpg)
+
+---
+
+![test-can-list-items](assets/test-images/test-can-list-items.jpg)
+
+---
+
+![test-migrations](assets/test-images/test-migrations.jpg)
+
+---
+
+
+![test-code-coverage-console](assets/test-images/test-code-coverage-console.jpg)
+
+---
+
+# Teste Code Coverage
+
+![test-code-coverage-html](assets/test-images/test-code-coverage-html.jpg)
+
+---
+
+
 # Obrigado!
 
 Dúvidas?
