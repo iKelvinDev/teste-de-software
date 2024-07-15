@@ -128,6 +128,34 @@ Os testes de funcionalidade e de integração são essenciais para garantir a qu
 
 ---
 
+![test-mysql-database-connection](assets/test-images/test-mysql-database-connection.jpg)
+
+---
+
+![test-update-shopping-list-not-found](assets/test-images/test-update-shopping-list-not-found.jpg)
+
+---
+
+![test-can-delete-shopping-list](assets/test-images/test-can-delete-shopping-list.jpg)
+
+---
+
+![test-can-update-shopping-list](assets/test-images/test-can-update-shopping-list.jpg)
+
+---
+
+![test-can-store-shopping-list](assets/test-images/test-can-store-shopping-list.jpg)
+
+---
+
+![test-can-show-shopping-list](assets/test-images/test-can-show-shopping-list.jpg)
+
+---
+
+![shopping-list-controller-test](assets/test-images/shopping-list-controller-test.jpg)
+
+---
+
 ![teste-update-list-item-not-found](assets/test-images/teste-update-list-item-not-found.jpg)
 
 ---
